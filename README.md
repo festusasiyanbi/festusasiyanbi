@@ -1,8 +1,8 @@
 <!-- <h1 align="left"> I'm Festus Asiyanbi. A front-end junior engineer from Nigeria.</h1> -->
 <img text-align="center" width="100%" height="500px" margin-bottom="20px" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<h1 align="left"> I'm Festus Asiyanbi. A front-end junior engineer from Nigeria.</h1>
+<h1 align="left"> I'm Festus Asiyanbi, a junior front-end developer from Nigeria.</h1>
 
-- 🔭 I’m currently working on **JavaScript mini & sizable projects.**
+- 🔭 I’m currently working on **JavaScript and React.js mini & sizable projects.**
 
 - 🌱 I’m currently learning **React.js**
 

@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via email: **@festusasiyanbi80@gmail.com**
 
-- ⚡ Fun fact: **I enjoy dabbling with my laptop and writing code. I dream about code sometimes, haha**
+- ⚡ Fun fact: **I enjoy dabbling with my laptop and writing code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

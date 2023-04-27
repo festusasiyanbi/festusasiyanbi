@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **JavaScript and React.js mini & sizable projects.**
 
-- 🌱 I’m currently learning **React.js**
-
 - 💬 Ask me anything about **front-end development, and I'll be more than glad to learn from you what I do not know!**
 
 - 📫 You can reach me via email: **@festusasiyanbi80@gmail.com**
